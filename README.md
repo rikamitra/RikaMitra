@@ -14,9 +14,9 @@
 <h2>💻 Web & Operations Tools:</h2>
 - <b>HTML Projects</b>
 
--[A responsive front-end web application designed for a modern restaurant and food delivery service. Built with HTML (74%), CSS (18.1%), and JavaScript (7.9%), this project showcases an interactive menu, featured dishes, service highlights, and mobile app promotion sections.](https://github.com/rikamitra/Food-)
+-Food Delivery App: [A responsive front-end web application designed for a modern restaurant and food delivery service. Built with HTML (74%), CSS (18.1%), and JavaScript (7.9%), this project showcases an interactive menu, featured dishes, service highlights, and mobile app promotion sections.](https://github.com/rikamitra/Food-)
 
--[A responsive front-end online fashion storefront showcasing men's and women's apparel, traditional wear, footwear, and accessories. Built with HTML (59%), CSS (24.5%), and JavaScript (16.5%), this project features interactive image sliders, category-based product galleries, and store locator sections](https://github.com/rikamitra/sleekstyle-)
+-Online Fashion Store App: [A responsive front-end online fashion storefront showcasing men's and women's apparel, traditional wear, footwear, and accessories. Built with HTML (59%), CSS (24.5%), and JavaScript (16.5%), this project features interactive image sliders, category-based product galleries, and store locator sections](https://github.com/rikamitra/sleekstyle-)
  
  
 - <b>Java Script Project</b>
