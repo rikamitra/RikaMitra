@@ -19,11 +19,11 @@
 
 [<img align="left" alt="rika-mitra-ab5b57321 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+
+[<img align="left" alt="rika__mitra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[instagram]: https://www.instagram.com/rika__mitra?avpt=cnljc2g0emtwM2Uw
 [linkedin]: https://www.linkedin.com/in/rika-mitra-ab5b57321/
-[<img align="left" alt="megha_mitra84 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-[instagram]: https://www.instagram.com/megha_mitra84/
-[linkedin]: https://www.linkedin.com/in/megha-m-957b64230/
 <!--
 
