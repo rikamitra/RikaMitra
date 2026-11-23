@@ -3,17 +3,18 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>SQL Projects</b>
-  - [Demonstrated expertise in SQL through advanced querying, data aggregation, joins, recursive queries, window functions, and business-focused data analysis](https://github.com/meghamitra08/SQL-Projects)
+  - [Demonstrated expertise in SQL through advanced querying, data aggregation, joins, recursive queries, window functions, and business-focused data analysis](https://github.com/rikamitra/SQL-Projects)
 - <b>Power BI Projects</b>
-  - [Developed interactive Power BI dashboards, data modeling with DAX, transforming data using Power Query, and optimizing reports for insightful, data-driven decision-making.](https://github.com/meghamitra08/Power-BI-projects)
-- <b>Tableau Projects</b>
-  - [Designed dynamic Tableau dashboards with advanced data visualizations, leveraging calculated fields and LOD expressions for in-depth analysis. Transformed and prepared data, optimized reports for performance, and delivered actionable insights to support data-driven decision-making.](https://github.com/meghamitra08/Tableau-Projects)
+  - [Developed interactive Power BI dashboards, data modeling with DAX, transforming data using Power Query, and optimizing reports for insightful, data-driven decision-making.](https://github.com/rikamitra/Power-BI-projects)
+- <b>HTML Projects</b>
+  - [A responsive front-end web application designed for a modern restaurant and food delivery service. Built with HTML (74%), CSS (18.1%), and JavaScript (7.9%), this project showcases an interactive menu, featured dishes, service highlights, and mobile app promotion sections.](https://github.com/rikamitra/Food-)
+  -  [A responsive front-end online fashion storefront showcasing men's and women's apparel, traditional wear, footwear, and accessories. Built with HTML (59%), CSS (24.5%), and JavaScript (16.5%), this project features interactive image sliders, category-based product galleries, and store locator sections](https://github.com/rikamitra/sleekstyle-)
 - <b>Advanced Excel Projects</b>
-  - [Showcases a collection of Excel-based data analysis projects designed to provide actionable business insights through interactive dashboards, data visualizations, and KPI tracking. Each project leverages Power Query, Pivot Tables, and advanced Excel formulas to streamline data processing and enhance decision-making.](https://github.com/meghamitra08/Excel-Projects)
+  - [Showcases a collection of Excel-based data analysis projects designed to provide actionable business insights through interactive dashboards, data visualizations, and KPI tracking. Each project leverages Power Query, Pivot Tables, and advanced Excel formulas to streamline data processing and enhance decision-making.](https://github.com/rikamitra/Excel-Projects)
    
-- <b>Python Projects</b>
-  - [Data cleaning and processing using python, exploratory data analysis using python, most used data analytics libraries in python: numpy, pandas, matplotlib and seaborn](https://github.com/meghamitra08/Python)
-
+- <b>Java Script Project</b>
+  - [A lightweight, interactive web tool designed to streamline equipment tracking, maintenance scheduling, and asset condition monitoring. Built with JavaScript (57.2%), CSS (25%), and HTML (17.8%), this application helps organize preventive maintenance workflows and reduce unplanned downtime](https://github.com/rikamitra/maintenance-)
+ 
 
 <h2> 🤳 Connect with me:</h2>
 
