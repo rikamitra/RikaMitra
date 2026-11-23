@@ -12,7 +12,7 @@
   - [Showcases a collection of Excel-based data analysis projects designed to provide actionable business insights through interactive dashboards, data visualizations, and KPI tracking. Each project leverages Power Query, Pivot Tables, and advanced Excel formulas to streamline data processing and enhance decision-making.](https://github.com/rikamitra/Excel-Projects)
  
 <h2>💻 Web & Operations Tools:</h2>
-- <b>HTML Projects</b>
+-<b>HTML Projects</b>
 
 -<b>Food Delivery App:</b> [A responsive front-end web application designed for a modern restaurant and food delivery service. Built with HTML (74%), CSS (18.1%), and JavaScript (7.9%), this project showcases an interactive menu, featured dishes, service highlights, and mobile app promotion sections.](https://github.com/rikamitra/Food-)
 
