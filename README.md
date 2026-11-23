@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rika! <br/><a href="https://github.com/rikamitra/RikaMitra">Operations & Insights Analyst</a>, <a href="https://www.linkedin.com/in/rika-mitra-ab5b57321/"> Operations & Insights Analyst </a>
+<h1>Hi, I'm Rika! <br/> <a href="https://www.linkedin.com/in/rika-mitra-ab5b57321/"> Operations & Insights Analyst </a>
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
