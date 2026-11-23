@@ -20,7 +20,7 @@
  
  
 - <b>Java Script Project</b>
-  - [A lightweight, interactive web tool designed to streamline equipment tracking, maintenance scheduling, and asset condition monitoring. Built with JavaScript (57.2%), CSS (25%), and HTML (17.8%), this application helps organize preventive maintenance workflows and reduce unplanned downtime](https://github.com/rikamitra/maintenance-)
+  -<b>Preventive Maintenance Tracker:</b>[A lightweight, interactive web tool designed to streamline equipment tracking, maintenance scheduling, and asset condition monitoring. Built with JavaScript (57.2%), CSS (25%), and HTML (17.8%), this application helps organize preventive maintenance workflows and reduce unplanned downtime](https://github.com/rikamitra/maintenance-)
  
 
 <h2> 🤳 Connect with me:</h2>
