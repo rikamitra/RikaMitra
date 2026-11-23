@@ -18,6 +18,8 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="rika-mitra-ab5b57321 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/rika-mitra-ab5b57321/
 [<img align="left" alt="megha_mitra84 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
